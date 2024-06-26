@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-Stages of Tic Tact Toe Game
+# Tic_Tac_Toe
